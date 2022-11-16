@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jan 04 08:13:32 2017
+Created on Wed Nov 16 09:23:00 2022
 Formulates & solves sudoku as a CSP
 @author: Fabian C. Annaheim
 """
